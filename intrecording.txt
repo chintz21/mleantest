@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BAAD-502A
+
+ Directory of C:\mctest\mleantest
+
+07/17/2018  09:36 PM    <DIR>          .
+07/17/2018  09:36 PM    <DIR>          ..
+07/17/2018  09:36 PM                 0 intrecording.txt
+07/17/2018  09:30 PM                11 README.md
+               2 File(s)             11 bytes
+               2 Dir(s)  358,868,291,584 bytes free
