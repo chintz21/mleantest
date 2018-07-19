@@ -1,0 +1,24 @@
+FIRST ROUND:-
+First Round was like a quick fire Question-Answer Round.
+- He asked around 10-12 question based on
+  -- AWS(S3,IAM,MongoDB, VPC, IPv4 and IPv6 etc,.)
+  -- Big Data(PySpark)
+     -- Difference between Actions and Transformations
+     -- What is Lazy Evaluations
+  -- Question Based on CI/CD Pipelines.
+  -- Jenkins lifecycle and how it improves the feedback process.
+  -- Scripting languages knowledge.
+  -- Version Control System.
+  -- What is Masking in IP
+
+
+SECOND ROUND:-
+Second Round was more on technical question and their working process with optimized solution
+- Python Libraries of DATA SCIENCE- NumPy, SciPy, Matplotlib, Pandas, Scikit Learn etc.
+- Question based on Django and microservices(Flask)
+- Question based on Kubernetes and Docker images
+- Reporting tools(Tableau)
+- Knowledge with Data Engineer task.
+- Extraction of data and analysis.
+- pacakges of python
+- Algorithms generation. 
