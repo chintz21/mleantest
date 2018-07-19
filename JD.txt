@@ -1,0 +1,27 @@
+JD:- 
+
+About the team/role:
+
+o   Business Process Monitoring and Model Monitoring teams
+
+o   Core of everything is in Python
+
+o   Usage in AWS
+
+o   Working on migrating all older code, transforming it, and switching it around to fully run in the cloud
+
+Top skills:
+
+o   Expert knowledge in Python (full awareness of how to work in python environment, work in virtual environments, standard algorithm design, understanding code complexity, design packages, testing, code compliance, test driven development knowledge)
+
+o   Expert in AWS (Lambda functions, S3, Cloud formations)
+
+o   Full awareness of CI/CD + how to deploy in that environment
+
+Bonus skills:
+
+o   PySpark knowledge
+
+o   Jira knowledge
+
+o   Jenkins experience
