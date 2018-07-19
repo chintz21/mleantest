@@ -1,11 +1,7 @@
- Volume in drive C has no label.
- Volume Serial Number is BAAD-502A
-
- Directory of C:\mctest\mleantest
-
-07/17/2018  09:36 PM    <DIR>          .
-07/17/2018  09:36 PM    <DIR>          ..
-07/17/2018  09:36 PM                 0 intrecording.txt
-07/17/2018  09:30 PM                11 README.md
-               2 File(s)             11 bytes
-               2 Dir(s)  358,868,291,584 bytes free
+-> Build Python packages for internal use and by using that users can import and pull data.
+-> Build models / users can tore the model and predict which group is more profitable.
+-> Convert all old packages in Python from SAAS and R. Due to low speed
+-> Usage of Conda/ process management / Numpy/ Scipy / Pandas
+-> Experience with working on large codebase
+-> Think about design and Architecture of Python code base will look like.
+-> Lot of coding

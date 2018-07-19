@@ -1,0 +1,63 @@
+Programming/Scripting Languages: Python, HTML, HTML5, CSS, CSS3, UML, SQL, XML, PL/SQL, JSON,
+
+AWS
+
+Frameworks: Django framework, FLASK, Django REST framework, PETL, Tornado
+Web Servers: Django, Mongo dB
+Version Controls: SVN, GIT, Source Tree
+Development/Application Tools: PyCharm, Notepad++, SVN Eclipse, MS FrontPage, MS-Office,
+Sublime, Windows PowerShell, Sony Dadc, Magento, Slack, Redis.
+
+----------------------------------------------------------------------------------------------------------------------------
+Experience
+May 2017 – Present Cardinal Health - Dublin, OH
+Application Developer
+
+
+-> Responsible for Design and maintenance of databases using Python.
+-> Developed Python based APIs (RESTful Web services) by using Flask, SQLAlchemy and PostgreSQL.
+-> Introduced Automation into the CI/CD pipeline using Ansible - IT Automation tool.
+-> Created APIs, database Model and Views Utilization Python to build responsive web page application.
+-> Used GitHub for Python source code version control, Jenkins for automating the build Docker containers, and
+deploying in Mesos.
+-> Developed backend of the application using the flask framework.
+->Designed and developed a horizontally scalable APIs using Python Flask.
+-> Migrated the Django database from SQLite3 to PostgreSQL with complete data integrity.
+-> Worked on Jenkins continuous integration tool for deployment of project.
+-> Automated the continuous integration and deployments using Jenkins, Docker, Ansible and AWS Cloud
+Templates.
+-> Worked on changes to open stack and AWS to accommodate large-scale data center deployment.
+-> Worked on the migration from VMware to AWS, and used Chef to automate the infrastructure in AWS by
+creating EC2, S3, RDS, VPC and Route 53.
+-> Designed AWS Cloud Formation templates to create custom sized VPC, subnets, NAT to ensure successful
+deployment of Web applications and database templates, security product templates.
+-> Used Amazon Cloud EC2 along with Amazon SQS to upload and retrieve project history.
+-> Worked on design, implementation and modifying the Python code, MySQL and PostgreSQL database schema on-
+the back end.
+-> Done search engine optimization by replacing existing database with MongoDB (NoSQL Database).
+-> Documented company Restful API&#39;s using Swagger for internal and third part use and worked on Unit testing and
+Integration testing
+-> Used Git for the version control
+
+----------------------------------------------------------------------------------------------------------------------------
+Mar 2016 - Apr 2017 3M - Maplewood, MN
+Application Developer
+
+
+-> Developed dynamic web pages using Python, Django Frameworks.
+-> Used Jinja2 of Flask to develop the backend and SQLAlchemy to link to the MySQL database.
+-> Designed and maintained databases using Python and developed Python-based API (RESTful Web Service) using
+Flask, SQLAlchemy, and Postgres SQL.
+-> Established security policies for Oracle and SQL Server databases in the AWS cloud.
+-> Managed AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our environments.
+-> Provisioned and maintained Amazon AWS server provisioning via chef. This included the provisioning of the
+instances, ELBs, DNS. Also contributed code to the Jenkins-aws module on GitHub as part of this.
+-> Worked on Django API&#39;s for accessing the database.
+-> Supported Apache Server on Linux Platform.
+-> Involved in back end development using Python with framework Flask
+-> Used Jinja2 of Flask to develop the backend and SQLAlchemy to link to the MySQL database.
+-> Worked on creating the Docker containers and Docker consoles for managing the application life cycle.
+-> Model View Control architecture is implemented using Django Framework to develop web applications.
+-> Developed scripts to migrate data from proprietary database to PostgreSQL.
+-> Implemented continuous integration using Jenkins and involved in the deployment of application with Ansible
+automation engine.
